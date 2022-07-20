@@ -1,0 +1,186 @@
+.logo {
+  width: 10rem;
+}
+.link-item {
+  color: black !important;
+}
+.header {
+  margin-top: 2rem;
+}
+.header-image {
+  width: 40rem;
+}
+.header h1 {
+  font-size: 4rem;
+  font-weight: 900;
+}
+.header span {
+  color: #006bff;
+}
+.header p {
+  font-size: 1.6rem;
+}
+.header input {
+  width: 25rem;
+  height: 4rem;
+  border-radius: 2.5rem;
+  border: 0;
+  padding: 1rem;
+  box-shadow: rgb(0 0 0 / 20%) 0px 2px 10px;
+}
+.header button {
+  position: relative;
+  right: 4rem;
+  height: 4rem;
+  width: 8rem;
+  border-radius: 2.5rem;
+  padding: 1rem;
+  border: 0;
+  background-color: black;
+  color: white;
+}
+.banner {
+  background-color: #f8f8f8;
+}
+.banner span {
+  color: #006bff;
+}
+#Signup-btn {
+  position: static;
+  width: 12rem;
+}
+.companies img {
+  height: 1.8rem;
+  opacity: 0.5;
+  margin: 1rem 2rem;
+}
+.steps {
+  margin-top: 2rem;
+  padding: 2rem;
+}
+.steps span {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
+  background-color: #006bff;
+  margin-left: -2rem;
+  font-size: 0.6rem;
+  padding: 0.6rem;
+}
+.steps p {
+  font-size: 1.3rem;
+  margin-top: 1.5rem;
+}
+.steps h3 {
+  margin-top: -1rem;
+}
+.individual-banner {
+  background: url(../images\ /Capture.png);
+  height: 20rem;
+  width: 100%;
+  padding: 3rem;
+  margin-top: 1.5rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.individual-banner button {
+  border-radius: 2.5rem;
+  height: 3rem;
+  border: 0;
+  width: 10rem;
+  margin-top: 2rem;
+}
+.individual-banner h1 {
+  font-weight: 900;
+  color: white;
+}
+footer {
+  margin-top: 1rem;
+}
+footer h1 {
+  font-weight: 700;
+}
+footer h2 {
+  font-weight: 600;
+}
+footer li {
+  list-style: none;
+  margin-top: 0.5rem;
+}
+footer span {
+  color: #006bff;
+}
+footer select {
+  width: 18rem;
+  background: white;
+}
+#Start-btn {
+  position: static;
+  border-radius: 2.5rem;
+  border: 0;
+  color: white;
+  background-color: #006bff;
+  width: 10rem;
+  height: 4rem;
+}
+#Contact-btn {
+  position: static;
+  border-radius: 2.5rem;
+  border: 1px solid black;
+  color: black;
+  background-color: white;
+  width: 10rem;
+  height: 4rem;
+  margin-left: 2rem;
+}
+.solutions {
+  height: 18rem;
+  box-shadow: 1px 1px 20px 1px rgba(105, 105, 105, 0.418);
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 2rem 0;
+  padding: 1rem;
+}
+
+.card {
+  border: 0;
+}
+.enterprise-banner {
+  background: url(/images\ /Partner_Background_for_Export.svg);
+  height: 17rem;
+  margin-top: 4rem;
+  padding: 3rem;
+}
+.enterprise-banner img {
+  height: 2rem;
+  margin: 2rem;
+}
+.ent-card {
+  border-radius: 3rem;
+  width: 18rem;
+  height: 30rem;
+  box-shadow: 1px 1px 20px 1px rgba(105, 105, 105, 0.418);
+  margin-top: 3rem;
+  padding: 1rem;
+}
+.ent-card img {
+  height: 15rem;
+  margin: 1rem;
+}
+.ent-card h5 {
+  color: #006bff;
+  margin: 1rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.learn-btn {
+  width: 12rem;
+  height: 4rem;
+  border: 0;
+  background-color: black;
+  color: white;
+  border-radius: 2rem;
+  margin: 2rem auto;
+}
